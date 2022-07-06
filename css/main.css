@@ -1,0 +1,152 @@
+header{
+    width: 1600px;
+    height: 862px;
+    border: 1px rgba(255,  241,  243,);
+    margin: 0 auto;
+    background-color: rgb(255, 241, 243);
+}
+.nav{
+    width: 1125px;
+    height: 79px;
+    border: 1px rgba(255,  241,  243,);
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.polar{
+    width: 79px;
+    height: 79px;
+    margin-top: 10px;
+}
+.nav{
+    display: flex;
+}
+.ul-nav{
+    display: flex;
+    justify-content: center;
+}
+.list-item-1{
+    color: pink;
+    padding-left: 200px;
+    font-size: 20px;
+    list-style: none;
+    margin-top: 15px;
+}
+.list-item{
+    font-size: 20px;
+    padding-left: 40px;
+    list-style: none;
+    margin-top: 15px;
+}
+.button-1{
+    width: 165px;
+    height: 49px;
+    background-color: rgb(228, 88, 111);
+    color: white;
+    font-size: 20px;
+    border: 1px  rgba(255, 241, 243, ) ;
+    border-radius: 5px;
+    margin: 15px;
+    margin-left: 25px;
+}
+.section-1{
+    display: flex;
+}
+.paragraph{
+    width: 665px;
+    height: 364px;
+    border: 1px  rgba(255,  241,  243,);
+    margin-top: 200px;
+    margin-left: 254px;
+    flex-direction: column;
+}
+h2{
+    font-family: cursive;
+    font-size: 45px;
+    margin-top: 2px;
+}
+strong{
+    color: rgb(233, 92, 115);
+}
+.button-2{
+    width: 165px;
+    height: 49px;
+    border: 1px  rgba(255, 241, 243,);
+    border-radius: 5px;
+    background-color: rgb(214, 55, 82);
+    margin-top: 50px;
+    color: white;
+    font-size: 20px;
+}
+.ice-cream{
+    width: 597px;
+    height: 597px;
+    margin-top: 150px;
+    margin-left: 1px;
+    border: 1px  rgba(255, 241, 243,);
+    background-color: rgb(255, 241, 243);
+}
+.menu{
+    width: 1600px;
+    height: 300px;
+    border: 1px white;
+    margin: 0 auto;
+    display: flex;
+}
+.div-menu{
+    width: 250px;
+    height: 200px;
+    border: 1px white;
+    margin-left: 39px;
+    margin-top: 50px;
+    box-shadow: 5px 5px rgb(224, 224, 224);
+    flex-direction: column;
+}
+.div-menu-1{
+    width: 250px;
+    height: 200px;
+    border: 1px white;
+    margin-top: 50px;
+    margin-left: 250px;
+    box-shadow: 5px 5px rgb(224, 224, 224);
+}
+.menu-image{
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+h3{
+    margin-left: 65px;
+}
+.menu-p{
+    margin-left: 15px;
+    opacity: 0.6;
+}
+.oatmea{
+    width: 1600px;
+    height: 544.5px;
+    border: 1px rgba(255,  241,  243,);
+    margin: 0 auto;
+    display: flex;
+    background-color: rgb(255, 241, 243);
+}.description{
+    width: 442px;
+    height: 256.71px;
+    border: 1px rgba(255,  241,  243,);
+    margin-left: 250px;
+    margin-top: 200px;
+}
+.button-3{
+    width: 165px;
+    height: 49.13px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: rgb(231, 91, 115);
+    color: white;
+}
+.picture{
+    width:557px;
+    height: 544.5px;
+    border: 1px rgba(255,  241,  243,);
+    margin-left: 150px;
+}
