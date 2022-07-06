@@ -150,3 +150,121 @@ h3{
     border: 1px rgba(255,  241,  243,);
     margin-left: 150px;
 }
+.Our-Product{
+    width: 1596px;
+    height: 1900px;
+    margin: 0 auto;
+}
+.marojnilar{
+    width: 1160px;
+    height: 1406px;
+    margin-top: 137px;
+    margin-left: 249px;
+}
+.products{
+    font-size: 50px;
+    margin-left: 432px;
+}
+.ul-nav-2{
+    display: flex;
+    justify-content: center;
+}
+.menyu-bar{
+    font-size: 20px;
+    margin-left: 15px;
+    list-style: none;
+    opacity: 0.6;
+}
+.brown-bread{
+    width: 1160px;
+    height: 415px;
+    display: flex;
+}
+.span-1{
+    flex-direction: column;
+}
+.nomlar{
+    font-size: 45px;
+    margin-left: 0px;
+}.p-tag{
+    font-size: 25px;
+    opacity: 0.5;
+    margin-top: 5px;
+}
+.narx{
+    font-size: 35px;
+    margin-left: 0px;
+}
+.button-menyu{
+    width: 165px;
+    height: 49px;
+    background-color: rgb(228, 88, 111);
+    color: white;
+    font-size: 20px;
+    border: 1px  rgba(255, 241, 243, ) ;
+    border-radius: 5px;
+    margin: 15px;
+    margin-left: 25px;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+.span-2{
+    margin-top: 80px;
+}
+.section-4{
+    width: 1600px;
+    height: 678px;
+    margin: 0 auto;
+    display: flex;
+    background-color: rgb(255, 210, 210);
+}
+.last-image{
+    margin-top: 56px;
+    margin-left: 158px;
+}
+.last-span{
+    flex-direction: column;
+    margin-left: 50px;
+}
+.way{
+    font-size: 45px;
+}
+.list-order{
+    font-size: 25px;
+    margin-top: 15px;
+    list-style: none;
+}
+.span-web{
+    display: flex;
+}
+.question-part{
+    width: 1600px;
+    height: 565px;
+    margin: 0 auto;
+}
+.div-question{
+    width: 637px;
+    height: 344px;
+    margin: top 150px;
+    margin-left: 482px;
+    margin-top: 150px;
+}
+input{
+    width: 303px;
+    height: 74px;
+    border: 1px rgba(255, 241, 243, );
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.input-1{
+    width: 450px;
+    height: 74px;
+    margin-top: 10px;
+}
+.last-button{
+    height: 74px;
+    width: 150px;
+    background-color: rgb(228, 88, 111);
+    border: 1px solid;
+    border-radius: 5px;
+}
